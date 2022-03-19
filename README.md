@@ -1,2 +1,6 @@
 # Data-analysis-with-SQL
-This is a labstart sales data from various countries and analyzing using SQL
+Download pgAdmin...
+Create database named Festman
+Create table named labstart
+Import labstart.xlsx data into labstart table
+Run code
